@@ -1,7 +1,8 @@
 # OsmaniPortfolio
+E-Portfolio Website
 
 https://osmani-portfolio.vercel.app/
-E-Portfolio Website
+
 
 # Next.js + Tailwind CSS Example
 
