@@ -1,2 +1,2 @@
 # OsmaniPortfolio
-E-Portfolio Frontend Portfolio
+E-Portfolio Website
